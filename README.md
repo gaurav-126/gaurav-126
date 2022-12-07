@@ -5,15 +5,30 @@
 
 <h2 class = "animate__animated animate__zoomIn" >
 
-Hey <img src="https://github.com/gaurav-126/gaurav-126/blob/main/Hi.gif" width="30px">, I'm Gaurav !!
+Welcome to Gaurav's profile!! <img src="https://github.com/gaurav-126/gaurav-126/blob/main/assets/Hi.gif" width="30px">
+
+<p align="center">
+<img src="https://github.com/gaurav-126/gaurav-126/blob/main/assets/header.gif" alt="R" title="R" width="800" height="400"/> 
+</p>
 
 </h2>
 
 <hr/>
 
 ## About Me
+<p align="center">
+  <em>
+    This is ME, Gaurav Lokhande, a <b>final year</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>Modern Education Society's College of Engineering
+    </b>, Pune</a>. <br>
+    A budding <b>Machine Learning Developer</b> <img src="https://github.com/gaurav-126/gaurav-126/blob/main/assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/gaurav-126/gaurav-126/blob/main/assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/gaurav-126/gaurav-126/blob/main/assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/gaurav-126/gaurav-126/blob/main/assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
-Hey, My Name is Gaurav Lokhande, I'm a final year CSE student at Pune University. I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 
 
 ## Coding Profiles
@@ -66,7 +81,7 @@ Hey, My Name is Gaurav Lokhande, I'm a final year CSE student at Pune University
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" title="Anaconda" width="40" height="40"/> 
 </a>
 <a href="https://unity.com" target="_blank"> 
-    <img src="https://github.com/gaurav-126/gaurav-126/blob/main/unity.png" alt="Unity" title="Unity" width="40" height="40"/> 
+    <img src="https://github.com/gaurav-126/gaurav-126/blob/main/assets/unity.png" alt="Unity" title="Unity" width="40" height="40"/> 
 </a>
 <a href="https://pytorch.org" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40"/> 
@@ -79,14 +94,17 @@ Hey, My Name is Gaurav Lokhande, I'm a final year CSE student at Pune University
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="40" height="40"/> 
 </a>
 <a href="https://flask.palletsprojects.com" target="_blank"> 
-    <img src="https://github.com/gaurav-126/gaurav-126/blob/main/icons8-unity-50.png" alt="Flask" title="Flask" width="40" height="40"/> 
+    <img src="https://github.com/gaurav-126/gaurav-126/blob/main/assets/icons8-unity-50.png" alt="Flask" title="Flask" width="40" height="40"/> 
 </a>
+
 
 
 <hr>
 
-<h1 align="center">
-    ✨ Where you can find me ✨
+<h3 align="center">
+    If you want to reach out to me about anything, 
+    be it some doubt or just to hangout and talk <br/>
+    or want to game together just ping me 😉
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/gaurav-lokhande-1206o1//">
@@ -98,12 +116,15 @@ Hey, My Name is Gaurav Lokhande, I'm a final year CSE student at Pune University
   <a href="discordapp.com/users/542284821314142208">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
+  <a href="https://steamcommunity.com/profiles/76561198865885635/">
+    <img src="https://img.shields.io/badge/Steam-0d1d46?style=for-the-badge&logo=steam&logoColor=white">
+  </a>
   
 
 </p>
-</h1>
+</h3>
 
-### :fire: My Stats :
+### :fire: My Stats :        ![](https://visitor-badge.laobi.icu/badge?page_id=gaurav-126)
 <div align = "center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-126&layout=compact&theme=dark&hide_border=true)
@@ -116,3 +137,5 @@ Hey, My Name is Gaurav Lokhande, I'm a final year CSE student at Pune University
 <h3>Thanks for Stopping by!! 😊</h3>
 <hr/>
 ⭐️ From [Gaurav](https://github.com/gaurav-126)
+
+
