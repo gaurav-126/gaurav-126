@@ -40,8 +40,16 @@ Welcome to Gaurav's profile!! <img src="https://github.com/gaurav-126/gaurav-126
 </a>
 <a href="https://leetcode.com/gv7lokhande/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-</a>                                                                                                                                                                                                                                                                                                   
+</a>
+
 <hr/>
+
+
+
+## My Badges 
+<a href="https://www.credly.com/users/gaurav-lokhande">
+    <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"/>
+</a>
 
 ## <strong>Programming Languages</strong>
 <a href="https://www.w3.org/html/" target="_blank"> 
